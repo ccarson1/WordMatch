@@ -7,5 +7,6 @@ Simple Text Game
 2. Run textgame.exe
 
 #Bugs
+
 Window does not close and has to be closed through task manager
 
